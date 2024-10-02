@@ -60,7 +60,7 @@ This tool was created to streamline the process of converting a GIF to a tileset
 Manually slicing each frame, manipulating animations, and optimizing tiles can be
 time-consuming and error-prone. 
 
-Animation to Tilemap aims to solve several key problems:
+Animation to Tilemap aims to solve these problems:
 
 - Automate the process of slicing images and animations into individual tiles
 - Identify and remove duplicate tiles to optimize memory usage
